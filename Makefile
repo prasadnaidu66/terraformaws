@@ -1,6 +1,6 @@
 .ONESHELL:
 .SHELL := /usr/bin/bash
-.PHONY: dev prod
+.PHONY: dev
 
 
 dev: ## dev env
